@@ -1,0 +1,80 @@
+================================================
+Autor: Hubert Kalinowski        Data:17.03.2020
+================================================
+Zestaw 01
+
+* Zawartość:
+============
+    Katalog zawiera 4 programy:
+
+    - main.x  - Zadanie1. Procinfo
+        program nie przyjmuje żadnych argumentów poza własną nazwą
+        wypisuje informację o swoim UID, GID, PPID, PGID i nazwę programu w jednej linii
+        
+    - main2.x - Zadanie2. kopiuj.c
+        program przyjmuje dwa argumenty poza swoją nazwą: ścieżkę do kopiowanego pliku i ścieżkę pliku docelowego
+        w postaci: ./main2.x SRC_FILE_DIR DEST_FILE_DIR
+        jeśli pliki znajdują się w tej samej lokalizacji co plik wykonywalny, wystarczy podać same nazwy
+
+    - main3.x - Zadanie3. procesy.c
+        program nie przyjmuje żadnych argumentów
+        program tworzy nowe potomne procesy za pomocą polecenia systemowego fork
+        następnie wyświetla informację o procesach potomnych
+
+    - main4.x - Zadanie4. lider.c
+        program działa bardzo podobnie do poprzedniego, z tą róznicą, że przed 
+        wyświetleniu informacji zmienia PGID (ID procesu lidera) na swoje własne ID
+
+* Jak uruchomic programy
+========================
+
+Każdy program musi zostać najpierw skompilowany ,można to zrobić za pomocą polecenia make, które dzięki obecnemu w katalogu
+pliku MAKEFILE może utworzyć wszystkie pliki wykonywalne
+
+pojedyńcze pliki można utworzyć poleceniem:
+make [nazwa_programu]
+np.: make main2.x
+
+następnie należy uruchomic program poleceniem w formie:
+./[nazwa_programu]
+np.: ./main3.x
+
+w celu wyczyszczenia katalogu z plików tymczasowychi i wykonywalnych, należy użyć polecenia:
+make clean
+
+katalog można powrotnie spakować do archiwum za pomocą polecenia:
+make tar
+archiwum zostanie utworzone w katalogu nadrzędnym
+        
+* Pytania do zestawy
+====================
+    #    Opisać dokładnie jak działa funkcja fork()?
+        - funkcja fork tworzy nowy proces poprzez kopiowanie procesu który wywołał funkcje
+        nowy proces jest nazywany dzieckiem, a stary rodzicem
+        -funkcja nie przyjmuje żadnego argumentu, lecz zwraca rodzicowi PID dziecka, a dziecku liczbę 0
+        Podczas błędu zwraca -1 rodzicowi, i zmienna errno jest odpowiednio zmieniona
+
+    #   Ile powstaje procesów w zadaniu procesy i dlaczego?
+        -nowych procesów powstaje 7
+        - jest tak ponieważ podczas każdej iteracji zostaje stworzony nowy proces, który następnie odziedzicz stan programu z momentu 
+        uruchomienia polecenia fork, czyli musi wykonać tą funkcją o jeden raz mniej niż jego rodzic, a rodzic, w następnej iteracji 
+        stworzy następne procesy z kolejną dekrementacją ilości poleceń
+    
+    #   Ile procesów powstanie przy n-krotnym wywołaniu funkcji fork i dlaczego?
+        -dla n wykonań będzie (2^n)-1 nowych ponieważ odjety jeden proces to oryginalny proces wykonujący funkcję
+
+    #   Jak używając funkcji sleep i bez odwoływania się do funkcji wait() zapewnić aby procesy macierzyste kończyły się dopiero po procesach potomnych.
+        -Należy uśpić proces macierzysty na czas wykonywania procesów potomnych
+
+    #   Jaką wartość zwraca open()?
+        -funkcja open, gdy się wykona bezbłędnie zwraca liczbę, ktora opisuje otwarty plik i pozwala się do niego odnieść w programie
+        -podczas błędu zwraca -1 i ustawia odpowiednią wartośc w zmiennej errno
+
+    #   Jaką wartość zwraca read() i write()?
+        -read podczas poprawnego działani zwraca ilość przeczytanych bajtów z pliku, 0 oznacza koniec pliku
+        podczas błędu zwraca -1 i ustawia odpowiednią wartośc w zmiennej errno
+        -write podczas poprawnego działani zwraca ilość zapisanych bajtów do pliku, 0 oznacza brak zapisania czego kolwiek
+        podczas błędu zwraca -1 i ustawia odpowiednią wartośc w zmiennej errno
+        
+
+

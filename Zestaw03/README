@@ -1,0 +1,42 @@
+Zadanie1:
+program: obsluga.x
+użycie: ./obsluga.x [opcje] <signal>
+    [opcje]:
+    p 
+        przechwycenie i własna obsługa sygnału(wyświetlenie kodu sygnału)
+    i 
+        ignorowanie sygnału
+    d 
+        wykonanie operacji domyslnej dla sygnału
+    <signal> numer sygnału
+Działanie:
+    program tworzy proces, który zachowuje się adekwatnie co do wysyłanego do niego sygnału o numerze <signal>
+    zachowanie zależy od podanych argumentów
+
+
+Zadanie2:
+program:wysylaj.x
+użycie: ./wysylaj.x [opcje] <signal>
+    Argumenty takie same jak w Zadaniu1
+Działanie:
+    program tworzy proces potomny, który uruchamia program obsluga.x, a następnie proces macierzysty wysyła 
+    dany sygnał do procesu potomnego
+
+Zadanie3:
+program:grupa.x
+użycie: ./grupa.x [opcje] <signal>
+    Argumenty takie same jak w Zadaniu1
+Działanie:
+    program tworzy proces potomny, który staje się liderem własnej grupy, ignoruje sygnał <signal> i tworzy 3 
+    procesy potomne, które uruchamiają program obsluga.x, proces macierzysty wysyła sygnał do całej grupy, lider 
+    czeka na zakończenie swoich procesów potomnych, anastępnie wypisuje ich status zakończenia
+
+    SIGKILL bezwarunkowe zakończenie procesu (nie może być przechwycony)
+    SIGSTOP Zatrzymanie procesu bez zakończenia (nie może być przechwycony)
+    SIGINT przerwanie procesu, może być wysłany z klawiatury [Ctrl c]
+    SIGQUIT sekwencja wyjścia, może być wysłany z klawiatury [Ctrl \]
+
+    Możemy wysłać za pomocą klawiatury następujące sygnały:
+    SIGINT [Ctrl c]
+    SIGQUIT [Ctrl \]
+    SIGTSTP [Ctrl z]

@@ -1,0 +1,18 @@
+Zadanie1:
+program: prodkons.x
+użycie: ./prodkons.x
+Działanie:
+    program kopiuje zawartość z pliku "magazyn.txt" do "schowek.txt", uzywając potoków nienazwanych
+    pozwalających na wymianę danych między procesem macierzystym,a jego potomkiem.
+
+Zadanie2:
+programy: fifo.x producent.x konsument.x
+użycie: ./fifo.x
+Działanie: efekt końcowy działania programu jest identyczny co do poprzedniego, lecz tu są wykorzystane
+potoki nazwane
+użycie: ./producent.x <file_path>
+Działanie
+    wysyła dane z pliku magzyn.txt do potoku <file_path>
+użycie: ./producent.x <file_path>
+    Działanie:
+    program oczekuje na przychodzące dane z potoku <file_path>, po odebraniu zapisuje je w schowek.txt
