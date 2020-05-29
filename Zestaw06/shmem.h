@@ -1,5 +1,6 @@
 #ifndef SHMEM_H
 #define SHMEM_H
+#define _POSIX_C_SOURCE 200809L
 #include <sys/mman.h>
 #include <sys/stat.h>
 #include <sys/types.h>
