@@ -1,6 +1,5 @@
-#include "sem.h"
 int main(int argc, char const *argv[])
 {
-    printf("pisarz\n");
+    /* code */
     return 0;
 }
