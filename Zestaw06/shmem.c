@@ -13,11 +13,7 @@ int shmCreate(const char *name, int size)
         exit(1);
     }
     printf("utworzono shmem o nazwie %s\n", name);
-    if (close(tmp) == -1)
-    {
-        perror("shmem close error");
-        exit(1);
-    }
+
     return tmp;
 }
 
