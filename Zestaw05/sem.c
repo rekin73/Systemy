@@ -34,7 +34,7 @@ void semRemove(const char *name)
 semid semOpen(const char *name)
 {
     semid tmp;
-    printf("otwieranie semafora %s\n", name);
+    //printf("otwieranie semafora %s\n", name);
     if ((tmp = sem_open(name, 0)) == SEM_FAILED)
     {
         perror("semaphor open error");
@@ -42,7 +42,7 @@ semid semOpen(const char *name)
     }
     else
     {
-        printf("semafor %s otwarty pomyslnie\n", name);
+        //printf("semafor %s otwarty pomyslnie\n", name);
         return tmp;
     }
 }
@@ -56,13 +56,13 @@ void semClose(semid sem)
     }
     else
     {
-        printf("semafor zamkniety pomyslnie\n");
+        //printf("semafor zamkniety pomyslnie\n");
     }
 }
 
 void semP(semid sem)
 {
-    printf("opuszczanie semafora\n");
+    //printf("opuszczanie semafora\n");
     if (sem_wait(sem) == -1)
     {
         perror("sem wait error");
@@ -72,7 +72,7 @@ void semP(semid sem)
 
 void semV(semid sem)
 {
-    printf("podnoszenie semafora\n");
+    //printf("podnoszenie semafora\n");
     if (sem_post(sem) == -1)
     {
         perror("sem post error");

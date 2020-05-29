@@ -1,10 +1,10 @@
-#define _DEFAULT_SOURCE
+#include "a6.h"
 #include "sem.h"
 #include "shmem.h"
 int main(int argc, char const *argv[])
 {
-    semid pis = semOpen("/pisarz");
-    int rsc = shmOpen("/resource");
+    semid pis = semOpen(SEM_RSC);
+    int rsc = shmOpen(SHM_RSC);
     int *r = shmMap(rsc, sizeof(int));
     pid_t pid = getpid();
     srand(pid);

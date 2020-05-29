@@ -1,4 +1,4 @@
-/* Implementacja rozwiązania czytelnik wchodzi do czytelni jak najszybciej*/
+#include "a6.h"
 #include <sys/types.h>
 #include <sys/wait.h>
 #include <unistd.h>
@@ -26,17 +26,25 @@ int main(int argc, char const *argv[])
         break;
     }
     pid_t frk;
-    int liczPis, liczCzyt;
-    liczPis = 1;
+    int liczPis, liczCzyt,lPis;
+    int *lP;
+    liczPis = 3;
     liczCzyt = 3;
-    semid semCzyt, semPis;
-    semCzyt = semCreate("/czytelnik", 1);
-    semPis = semCreate("/pisarz", 1);
-    int lCzyt = shmCreate("/czytelnicy", sizeof(int));
-    int *lC = shmMap(lCzyt, sizeof(int));
-
+    semid semCzyt, semRsc,semBlok, semPisQ;
+    semCzyt = semCreate(SEM_CZYT, 1);
+    semRsc = semCreate(SEM_RSC, 1);
+    if (choice == 2) //tworzenie semaforów przy wariancie 2
+    {
+        semBlok = semCreate(SEM_BLOK, 1);  //semafor, który blokuje czytelników
+        semPisQ = semCreate(SEM_PISQ, 1); //semafor zatrzymujących innych pisarzy (kolejka)
+        lPis = shmCreate(SHM_LPIS, sizeof(int));
+        lP=shmMap(lPis, sizeof(int));//licznik pisarzy
+        *lP = 0;
+    }
+    int lCzyt = shmCreate(SHM_LCZ, sizeof(int));
+    int *lC = shmMap(lCzyt, sizeof(int));//licznik czytajacych
     *lC = 0;
-    int resource = shmCreate("/resource", sizeof(int));
+    int resource = shmCreate(SHM_RSC, sizeof(int));
     int *rsc = shmMap(resource, sizeof(int));
 
     *rsc = 0;
@@ -51,13 +59,13 @@ int main(int argc, char const *argv[])
         case 0:
             if (i < liczCzyt)
             {
-                if (execl(czytelnik[choice-1], "czytelnik.x", NULL) == -1)
+                if (execl(czytelnik[choice - 1], "czytelnik.x", NULL) == -1)
                     perror("execl error");
                 exit(1);
             }
             else if (i >= liczCzyt)
             {
-                if (execl(pisarz[choice-1], "pisarz.x", NULL) == -1)
+                if (execl(pisarz[choice - 1], "pisarz.x", NULL) == -1)
                     perror("execl error");
                 exit(1);
             }
@@ -75,12 +83,22 @@ int main(int argc, char const *argv[])
             exit(1);
         }
     }
+    if (choice == 2) //zamykanie semaforów przy wariancie 2
+    {
+        semClose(semBlok);
+        semRemove(SEM_BLOK);
+        semClose(semPisQ);
+        semRemove(SEM_PISQ);
+        shmClose(lP,lPis,sizeof(int));
+        shmRm(SHM_LPIS);
+        
+    }
     shmClose(lC, lCzyt, sizeof(int));
     shmClose(rsc, resource, sizeof(int));
-    shmRm("/czytelnicy");
+    shmRm(SHM_LCZ);
     semClose(semCzyt);
-    semClose(semPis);
-    semRemove("/czytelnik");
-    semRemove("/pisarz");
+    semClose(semRsc);
+    semRemove(SEM_CZYT);
+    semRemove(SEM_RSC);
     return 0;
 }
