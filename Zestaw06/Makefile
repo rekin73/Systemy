@@ -3,7 +3,7 @@ CFLAGS	:= -O3 -Wall -std=c99
 LDFLAGS := -s -lm -pthread -L. -lshmem -lsem -lrt
 
 .PHONY: all clean tar
-all: libshmem.so shmuse.x producent.x konsument.x glowny.x
+all: libsem.a libshmem.so shmuse.x producent.x konsument.x glowny.x
 
 
 autor=HubertKalinowski
@@ -15,11 +15,17 @@ konsument.x:
 
 glowny.x:
 
+sem.o: sem.c
+	$(CC) -c $<
+
 shmem.o: shmem.c
 	$(CC) -c -O -fPIC $<
 
 libshmem.so: shmem.o
 	$(CC) -shared -o $@ $<
+
+libsem.a: sem.o
+	ar rv $@ $<
 
 %.o: %.c
 	$(CC) $(CFLAGS) $<
