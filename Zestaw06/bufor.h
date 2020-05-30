@@ -1,6 +1,6 @@
 #define ROZMIAR 10
 typedef char towar;
-typedef struct cykliczny
+typedef struct
 {
     int size;           // Całkowity rozmiar bufora
     int beg;            // Pierwszy element do odczytu

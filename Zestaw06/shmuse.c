@@ -24,8 +24,8 @@ int main(int argc, char const *argv[])
 
     int size, rd;
     int shm;
-    char *buf = malloc(100);
-    void *ptr;
+    //char *buf = malloc(100);
+    char *ptr;
     switch (argv[1][0])
     {
     case 'c':
@@ -47,15 +47,16 @@ int main(int argc, char const *argv[])
         size = shmSize(shm);
         
         ptr = shmMap(shm, size);
-        while ((rd = read(shm, buf, 100)) != 0)
-        {
-            
+        printf("%s\n",ptr);
+        //while ((rd = read(shm, buf, 100)) != 0)
+        
+            /*
             if (write(1, buf, rd) == -1)
             {
                 perror("write error");
                 exit(1);
             }
-        }
+        */
         
         shmClose(ptr, shm, size);
         break;
@@ -65,14 +66,14 @@ int main(int argc, char const *argv[])
         size = shmSize(shm);
         ptr = shmMap(shm, size);
         printf("size:%d",size);
-        while ((rd = read(0, buf, 100)) != 0)
+        if ((rd = read(0, ptr, size)) != 0)
         {
             
-            if (write(shm, buf, rd) == -1)
+/*             if (write(shm, buf, rd) == -1)
             {
                 perror("write error");
                 exit(1);
-            }
+            } */
         }
         printf("size:%d",shmSize(shm));
         shmClose(ptr, shm, size);
@@ -91,7 +92,7 @@ int main(int argc, char const *argv[])
         return 0;
         break;
     };
-free(buf);
+//free(buf);
     /* code */
     return 0;
 }

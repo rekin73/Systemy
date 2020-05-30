@@ -8,9 +8,12 @@ int main(int argc, char const *argv[])
     semCreate("/producent", ROZMIAR);
     semCreate("/konsument", 0);
     int buf=shmCreate("/bufor", sizeof(bufor));
-    bufor *bf=(bufor *) shmMap(buf,sizeof(bufor));
+    bufor *bf= shmMap(buf,sizeof(bufor));
+    (*bf)=(bufor){1,1,1,"sdf"};
     bf->beg=0;
-    bf->end=0;
+    bf->end=ROZMIAR-1;
+    
+    printf("%s\n",(bf->buf));
     switch (fork())
     {
     case -1:

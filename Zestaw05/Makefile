@@ -1,6 +1,6 @@
 CFLAGS	:= -O3 -Wall -std=c99
 #CFLAGS	+= -Wall
-LDFLAGS := -s -lm -pthread -L. -lsem -lshmem -lrt
+LDFLAGS := -s -lm -pthread -L. -lsem -lshmem -lrt -Wl,-R .
 .PHONY: all clean tar A6
 all: libsem.a libshmem.so semuse.x prog.x powielacz.x A6
 

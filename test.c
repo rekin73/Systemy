@@ -1,87 +1,27 @@
-#include "shmem.h"
-int shmCreate(const char *name, int size)
-{
-    int tmp;
-    if ((tmp = shm_open(name, O_RDWR | O_CREAT | O_TRUNC, 0777)) == -1)
-    {
-        perror("create error");
-        exit(1);
-    }
-    if (ftruncate(tmp, size) == -1)
-    {
-        perror("ftruncate error");
-        exit(1);
-    }
-    printf("utworzono shmem o nazwie %s\n", name);
+#define _POSIX_C_SOURCE 200809L
+#include <sys/types.h>
+       #include <sys/stat.h>
+       #include <time.h>
+       #include <stdio.h>
+       #include <stdlib.h>
+       #include <sys/sysmacros.h>
 
-    return tmp;
-}
+       int
+       main(int argc, char *argv[])
+       {
+           struct stat sb;
 
-int shmOpen(const char *name)
-{
-    int tmp;
-    if ((tmp = shm_open(name, O_RDWR, 0777)) == -1)
-    {
-        perror("shmem open error");
-        exit(1);
-    }
-    return tmp;
-}
+           if (argc != 2) {
+               fprintf(stderr, "Usage: %s <pathname>\n", argv[0]);
+               exit(EXIT_FAILURE);
+           }
 
-void shmRm(const char *name)
-{
-    if (shm_unlink(name) == -1)
-    {
-        perror("shmem remove error");
-        exit(1);
-    }
-}
+           if (lstat(argv[1], &sb) == -1) {
+               perror("lstat");
+               exit(EXIT_FAILURE);
+           }
 
-void *shmMap(int fd, int size)
-{
-    void *tmp;
-    if ((tmp = mmap(NULL, size, PROT_EXEC | PROT_READ | PROT_WRITE, MAP_SHARED, fd, 0)) == MAP_FAILED)
-    {
-        perror("map error");
-        exit(1);
-    }
-    return tmp;
-}
-
-void shmClose(void *ptr, int fd, int size)
-{
-    if (munmap(ptr, size) == -1)
-    {
-        perror("munmap error");
-        exit(1);
-    }
-    if (close(fd) == -1)
-    {
-        perror("shmem close error");
-        exit(1);
-    }
-}
-
-int shmSize(int fd)
-{
-    struct stat statbuf;
-    if (fstat(fd, &statbuf) == -1)
-    {
-        perror("fstat error");
-        exit(1);
-    }
-    return statbuf.st_size;
-}
-
-void shmInfo(int fd)
-{
-    struct stat sb;
-    if (fstat(fd, &sb) == -1)
-    {
-        perror("fstat error");
-        exit(1);
-    }
-    printf("ID of containing device:  [%lx,%lx]\n",
+           printf("ID of containing device:  [%lx,%lx]\n",
                 (long) major(sb.st_dev), (long) minor(sb.st_dev));
 
            printf("File type:                ");
@@ -116,4 +56,6 @@ void shmInfo(int fd)
            printf("Last status change:       %s", ctime(&sb.st_ctime));
            printf("Last file access:         %s", ctime(&sb.st_atime));
            printf("Last file modification:   %s", ctime(&sb.st_mtime));
-}
+
+           exit(EXIT_SUCCESS);
+       }
