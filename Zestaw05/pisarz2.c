@@ -9,7 +9,7 @@ int main(int argc, char const *argv[])
     int lPis = shmOpen(SHM_LPIS);
     int *lP = shmMap(lPis, sizeof(int)); //licznik pisarzy
     int rsc = shmOpen(SHM_RSC);
-    int *r = shmMap(rsc, sizeof(int)); //licznik pisarzy
+    int *r = shmMap(rsc, sizeof(int)); //zasoby
     pid_t pid = getpid();
     srand(pid);
     while ((*r) < 30)

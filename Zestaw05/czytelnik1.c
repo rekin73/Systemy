@@ -1,4 +1,3 @@
-#define _DEFAULT_SOURCE
 #include "a6.h"
 #include "sem.h"
 #include "shmem.h"
@@ -14,7 +13,7 @@ int main(int argc, char const *argv[])
     int *r = shmMap(rsc, sizeof(int)); //pamięć mapowana na int (dane do odczytu)
     pid_t pid = getpid();
     srand(pid);
-    while ((*r) != 100)
+    while ((*r) != 30)
     {
         semP(cz);
         (*lC)++;

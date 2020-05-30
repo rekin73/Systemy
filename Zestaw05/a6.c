@@ -33,14 +33,19 @@ int main(int argc, char const *argv[])
     semid semCzyt, semRsc,semBlok, semPisQ;
     semCzyt = semCreate(SEM_CZYT, 1);
     semRsc = semCreate(SEM_RSC, 1);
-    if (choice == 2) //tworzenie semaforów przy wariancie 2
-    {
+    //if (choice == 2) //tworzenie semaforów przy wariancie 2
+    //{
         semBlok = semCreate(SEM_BLOK, 1);  //semafor, który blokuje czytelników
         semPisQ = semCreate(SEM_PISQ, 1); //semafor zatrzymujących innych pisarzy (kolejka)
         lPis = shmCreate(SHM_LPIS, sizeof(int));
         lP=shmMap(lPis, sizeof(int));//licznik pisarzy
         *lP = 0;
-    }
+    //}
+    /*
+    if(choice==3)
+    {
+        semPisQ = semCreate(SEM_PISQ, 1); //semafor (kolejka)
+    }*/
     int lCzyt = shmCreate(SHM_LCZ, sizeof(int));
     int *lC = shmMap(lCzyt, sizeof(int));//licznik czytajacych
     *lC = 0;
@@ -75,6 +80,7 @@ int main(int argc, char const *argv[])
             break;
         }
     }
+    
     for (int i = 0; i < liczPis + liczCzyt; i++)
     {
         if (wait(NULL) == -1)
@@ -83,8 +89,8 @@ int main(int argc, char const *argv[])
             exit(1);
         }
     }
-    if (choice == 2) //zamykanie semaforów przy wariancie 2
-    {
+    //if (choice == 2) //zamykanie semaforów przy wariancie 2
+    //{
         semClose(semBlok);
         semRemove(SEM_BLOK);
         semClose(semPisQ);
@@ -92,7 +98,13 @@ int main(int argc, char const *argv[])
         shmClose(lP,lPis,sizeof(int));
         shmRm(SHM_LPIS);
         
-    }
+    //}
+    /*
+    if(choice==3)
+    {
+        semClose(semPisQ);
+        semRemove(SEM_PISQ);
+    }*/
     shmClose(lC, lCzyt, sizeof(int));
     shmClose(rsc, resource, sizeof(int));
     shmRm(SHM_LCZ);

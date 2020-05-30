@@ -3,20 +3,20 @@
 #include "shmem.h"
 int main(int argc, char const *argv[])
 {
-    semid pis = semOpen(SEM_RSC);
+    semid semRsc = semOpen(SEM_RSC);
     int rsc = shmOpen(SHM_RSC);
     int *r = shmMap(rsc, sizeof(int));
     pid_t pid = getpid();
     srand(pid);
-    while ((*r) < 100)
+    while ((*r) < 30)
     {
-        semP(pis);
+        semP(semRsc);
         (*r)++;
         printf("pisarz (%d) : %d\n", pid, *r);
-        semV(pis);
+        semV(semRsc);
         usleep(rand() % 100000);
     }
     shmClose(r, rsc, sizeof(int));
-    semClose(pis);
+    semClose(semRsc);
     return 0;
 }
