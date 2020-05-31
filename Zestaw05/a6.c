@@ -8,28 +8,30 @@ int main(int argc, char const *argv[])
 {
     const char *czytelnik[] = {"./czytelnik1.x", "./czytelnik2.x", "./czytelnik3.x"};
     const char *pisarz[] = {"./pisarz1.x", "./pisarz2.x", "./pisarz3.x"};
-    int choice;
+    int choice,liczPis, liczCzyt,lPis;
     switch (argc)
     {
-    case 2:
+    case 4:
         choice = atoi(argv[1]);
-        if (choice < 1 || choice > 3)
+        liczPis=atoi(argv[2]);
+        liczCzyt=atoi(argv[3]);
+        if (choice < 1 || choice > 3 || liczPis<=0 || liczCzyt<=0)
         {
-            printf("Uzycie: ./a6.x n\nn:\n1 przywilej czytelnicy\n2 przywilej pisarze\n3 rowne prawa\n");
+            printf("Uzycie: ./a6.x n p c\np: liczba pisarzy\nc: liczba czytlnikow\nn:\n1 przywilej czytelnicy\n2 przywilej pisarze\n3 rowne prawa\n");
             return 0;
         }
         break;
 
     default:
-        printf("Uzycie: ./a6.x n\nn:\n1 przywilej czytelnicy\n2 przywilej pisarze\n3 rowne prawa\n");
+        printf("Uzycie: ./a6.x n p c\np: liczba pisarzy\nc: liczba czytlnikow\nn:\n1 przywilej czytelnicy\n2 przywilej pisarze\n3 rowne prawa\n");
         return 0;
         break;
     }
     pid_t frk;
-    int liczPis, liczCzyt,lPis;
+    
     int *lP;
-    liczPis = 3;
-    liczCzyt = 3;
+    //liczPis = 3;
+    //liczCzyt = 3;
     semid semCzyt, semRsc,semBlok, semPisQ;
     semCzyt = semCreate(SEM_CZYT, 1);
     semRsc = semCreate(SEM_RSC, 1);

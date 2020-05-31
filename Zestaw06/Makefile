@@ -1,7 +1,7 @@
 CFLAGS	:= -O3 -Wall -std=c99
 #CFLAGS	+= -Wall
 LDFLAGS := -s -lm -pthread -L. -lshmem -lsem -lrt
-
+LDPATH :=-Wl,-R .
 .PHONY: all clean tar
 all: libsem.a libshmem.so shmuse1.x shmuse2.x producent.x konsument.x glowny.x
 
@@ -17,7 +17,7 @@ glowny.x:
 shmuse1.x:shmuse.o
 	$(CC) -o $@ $^ $(LDFLAGS)
 shmuse2.x:shmuse.o
-	$(CC) -o $@ $^ $(LDFLAGS) -Wl,-R .
+	$(CC) -o $@ $^ $(LDFLAGS) $(LDPATH)
 sem.o: sem.c
 	$(CC) -c $<
 
@@ -40,7 +40,7 @@ libsem.a: sem.o
 	$(CC) $(CFLAGS) -c -o $@ $<
 
 %.x: %.o
-	$(CC) -o $@ $^ $(LDFLAGS)
+	$(CC) -o $@ $^ $(LDFLAGS) $(LDPATH)
 
 clean:
 	$(RM) $(wildcard *.[ox])

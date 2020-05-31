@@ -1,0 +1,4430 @@
+prod:beg -> 0 end -> 0
+semafor ma wartosc 10
+producent: a,97
+prod:beg -> 0 end -> 1
+semafor ma wartosc 9
+producent: s,115
+prod:beg -> 0 end -> 2
+semafor ma wartosc 8
+producent: d,100
+prod:beg -> 0 end -> 3
+semafor ma wartosc 7
+producent: a,97
+prod:beg -> 0 end -> 4
+semafor ma wartosc 6
+producent: s,115
+prod:beg -> 0 end -> 5
+semafor ma wartosc 5
+producent: d,100
+prod:beg -> 0 end -> 6
+semafor ma wartosc 4
+producent: a,97
+prod:beg -> 0 end -> 7
+semafor ma wartosc 3
+producent: s,115
+prod:beg -> 0 end -> 8
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 0 end -> 9
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 0 end -> 10
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 1 end -> 0
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 2 end -> 1
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 3 end -> 2
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 4 end -> 3
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 6 end -> 4
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 6 end -> 5
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 7 end -> 6
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 9 end -> 7
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 9 end -> 8
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 0 end -> 9
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 0 end -> 10
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 1 end -> 0
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 6 end -> 1
+semafor ma wartosc 4
+producent: d,100
+prod:beg -> 6 end -> 2
+semafor ma wartosc 3
+producent: a,97
+prod:beg -> 7 end -> 3
+semafor ma wartosc 3
+producent: s,115
+prod:beg -> 7 end -> 4
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 7 end -> 5
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 8 end -> 6
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 8 end -> 7
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 0 end -> 8
+semafor ma wartosc 2
+producent: a,97
+prod:beg -> 0 end -> 9
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 0 end -> 10
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 1 end -> 0
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 2 end -> 1
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 3 end -> 2
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 4 end -> 3
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 5 end -> 4
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 6 end -> 5
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 7 end -> 6
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 8 end -> 7
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 9 end -> 8
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 10 end -> 9
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 0 end -> 10
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 1 end -> 0
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 2 end -> 1
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 3 end -> 2
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 4 end -> 3
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 5 end -> 4
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 6 end -> 5
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 7 end -> 6
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 8 end -> 7
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 9 end -> 8
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 10 end -> 9
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 0 end -> 10
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 1 end -> 0
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 2 end -> 1
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 3 end -> 2
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 4 end -> 3
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 5 end -> 4
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 6 end -> 5
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 7 end -> 6
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 8 end -> 7
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 9 end -> 8
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 10 end -> 9
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 0 end -> 10
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 4 end -> 0
+semafor ma wartosc 4
+producent: a,97
+prod:beg -> 5 end -> 1
+semafor ma wartosc 3
+producent: s,115
+prod:beg -> 6 end -> 2
+semafor ma wartosc 3
+producent: d,100
+prod:beg -> 6 end -> 3
+semafor ma wartosc 2
+producent: a,97
+prod:beg -> 7 end -> 4
+semafor ma wartosc 2
+producent: s,115
+prod:beg -> 8 end -> 5
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 8 end -> 6
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 9 end -> 7
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 9 end -> 8
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 10 end -> 9
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 0 end -> 10
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 4 end -> 0
+semafor ma wartosc 4
+producent: d,100
+prod:beg -> 5 end -> 1
+semafor ma wartosc 3
+producent: a,97
+prod:beg -> 6 end -> 2
+semafor ma wartosc 3
+producent: s,115
+prod:beg -> 6 end -> 3
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 7 end -> 4
+semafor ma wartosc 2
+producent: a,97
+prod:beg -> 7 end -> 5
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 8 end -> 6
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 8 end -> 7
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 9 end -> 8
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 2 end -> 9
+semafor ma wartosc 3
+producent: d,100
+prod:beg -> 3 end -> 10
+semafor ma wartosc 3
+producent: a,97
+prod:beg -> 3 end -> 0
+semafor ma wartosc 2
+producent: s,115
+prod:beg -> 4 end -> 1
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 4 end -> 2
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 5 end -> 3
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 5 end -> 4
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 6 end -> 5
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 10 end -> 6
+semafor ma wartosc 3
+producent: s,115
+prod:beg -> 10 end -> 7
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 10 end -> 8
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 0 end -> 9
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 0 end -> 10
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 4 end -> 0
+semafor ma wartosc 3
+producent: a,97
+prod:beg -> 5 end -> 1
+semafor ma wartosc 3
+producent: s,115
+prod:beg -> 5 end -> 2
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 6 end -> 3
+semafor ma wartosc 2
+producent: a,97
+prod:beg -> 6 end -> 4
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 7 end -> 5
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 7 end -> 6
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 8 end -> 7
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 1 end -> 8
+semafor ma wartosc 3
+producent: d,100
+prod:beg -> 2 end -> 9
+semafor ma wartosc 3
+producent: a,97
+prod:beg -> 2 end -> 10
+semafor ma wartosc 3
+producent: s,115
+prod:beg -> 3 end -> 0
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 4 end -> 1
+semafor ma wartosc 2
+producent: a,97
+prod:beg -> 4 end -> 2
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 5 end -> 3
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 5 end -> 4
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 6 end -> 5
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 10 end -> 6
+semafor ma wartosc 3
+producent: d,100
+prod:beg -> 10 end -> 7
+semafor ma wartosc 2
+producent: a,97
+prod:beg -> 0 end -> 8
+semafor ma wartosc 2
+producent: s,115
+prod:beg -> 0 end -> 9
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 1 end -> 10
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 2 end -> 0
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 2 end -> 1
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 4 end -> 2
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 4 end -> 3
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 8 end -> 4
+semafor ma wartosc 4
+producent: d,100
+prod:beg -> 9 end -> 5
+semafor ma wartosc 3
+producent: 
+,10
+prod:beg -> 10 end -> 6
+semafor ma wartosc 3
+producent: a,97
+prod:beg -> 10 end -> 7
+semafor ma wartosc 2
+producent: s,115
+prod:beg -> 10 end -> 8
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 0 end -> 9
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 0 end -> 10
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 1 end -> 0
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 5 end -> 1
+semafor ma wartosc 3
+producent: a,97
+prod:beg -> 6 end -> 2
+semafor ma wartosemafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 6
+konsument: a,97
+semafor ma wartosc 6
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 7
+konsument: a,97
+semafor ma wartosc 7
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 7
+konsument: a,97
+semafor ma wartosc 7
+konsument: s,115
+semafor ma wartosc 6
+konsument: d,100
+semafor ma wartosc 6
+konsument: a,97
+semafor ma wartosc 7
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 6
+konsument: a,97
+semafor ma wartosc 6
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 7
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 6
+konsument: a,97
+semafor ma wartosc 7
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 7
+konsument: s,115
+semafor ma wartosc 6
+konsument: d,100
+semafor ma wartosc 6
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 7
+konsument: a,97
+semafor ma wartosc 6
+konsument: s,115
+semafor ma wartosc 6
+konsument: d,100
+semafor ma wartosc 7
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 6
+konsument: a,97
+semafor ma wartosc 6
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 6
+konsument: a,97
+semafor ma wartosc 7
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 6
+konsument: a,97
+semafor ma wartosc 6
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 7
+konsument: s,115
+semafor ma wartosc 6
+konsument: d,100
+semafor ma wartosc 6
+konsument: 
+,10
+semafor ma wartosc 6
+konsument: a,97
+semafor ma wartosc 5
+konsument: s,115
+semafor ma wartosc 4
+konsument: d,100
+semafor ma wartosc 3
+konsument: a,97
+semafor ma wartosc 2
+konsument: s,115
+semafor ma wartosc 1
+konsument: d,100
+semafor ma wartosc 0
+konsument: a,97
+kons:beg -> 2 end -> 2
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 7
+konsument: a,97
+semafor ma wartosc 6
+konsument: s,115
+semafor ma wartosc 6
+konsument: d,100
+semafor ma wartosc 7
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 7
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 7
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 7
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 6
+konsument: a,97
+semafor ma wartosc 7
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 7
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 7
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 7
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 7
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 7
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,sc 3
+producent: s,115
+prod:beg -> 2 end -> 3
+semafor ma wartosc 9
+producent: d,100
+prod:beg -> 2 end -> 4
+semafor ma wartosc 8
+producent: a,97
+prod:beg -> 2 end -> 5
+semafor ma wartosc 7
+producent: s,115
+prod:beg -> 2 end -> 6
+semafor ma wartosc 6
+producent: d,100
+prod:beg -> 2 end -> 7
+semafor ma wartosc 5
+producent: a,97
+prod:beg -> 2 end -> 8
+semafor ma wartosc 4
+producent: s,115
+prod:beg -> 2 end -> 9
+semafor ma wartosc 3
+producent: d,100
+prod:beg -> 2 end -> 10
+semafor ma wartosc 2
+producent: a,97
+prod:beg -> 2 end -> 0
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 2 end -> 1
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 6 end -> 2
+semafor ma wartosc 3
+producent: a,97
+prod:beg -> 7 end -> 3
+semafor ma wartosc 3
+producent: s,115
+prod:beg -> 7 end -> 4
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 8 end -> 5
+semafor ma wartosc 2
+producent: a,97
+prod:beg -> 8 end -> 6
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 8 end -> 7
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 9 end -> 8
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 1 end -> 9
+semafor ma wartosc 2
+producent: s,115
+prod:beg -> 1 end -> 10
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 2 end -> 0
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 2 end -> 1
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 5 end -> 2
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 5 end -> 3
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 6 end -> 4
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 6 end -> 5
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 9 end -> 6
+semafor ma wartosc 2
+producent: a,97
+prod:beg -> 9 end -> 7
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 10 end -> 8
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 10 end -> 9
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 2 end -> 10
+semafor ma wartosc 2
+producent: s,115
+prod:beg -> 2 end -> 0
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 3 end -> 1
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 3 end -> 2
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 6 end -> 3
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 6 end -> 4
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 7 end -> 5
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 7 end -> 6
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 10 end -> 7
+semafor ma wartosc 2
+producent: a,97
+prod:beg -> 10 end -> 8
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 10 end -> 9
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 0 end -> 10
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 3 end -> 0
+semafor ma wartosc 2
+producent: s,115
+prod:beg -> 3 end -> 1
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 4 end -> 2
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 4 end -> 3
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 8 end -> 4
+semafor ma wartosc 3
+producent: d,100
+prod:beg -> 8 end -> 5
+semafor ma wartosc 2
+producent: a,97
+prod:beg -> 9 end -> 6
+semafor ma wartosc 2
+producent: s,115
+prod:beg -> 9 end -> 7
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 9 end -> 8
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 10 end -> 9
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 2 end -> 10
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 2 end -> 0
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 3 end -> 1
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 3 end -> 2
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 5 end -> 3
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 6 end -> 4
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 6 end -> 5
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 9 end -> 6
+semafor ma wartosc 2
+producent: a,97
+prod:beg -> 9 end -> 7
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 10 end -> 8
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 10 end -> 9
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 2 end -> 10
+semafor ma wartosc 2
+producent: s,115
+prod:beg -> 2 end -> 0
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 2 end -> 1
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 3 end -> 2
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 6 end -> 3
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 6 end -> 4
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 6 end -> 5
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 7 end -> 6
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 9 end -> 7
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 10 end -> 8
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 10 end -> 9
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 2 end -> 10
+semafor ma wartosc 2
+producent: a,97
+prod:beg -> 2 end -> 0
+semafor ma wartosc 2
+producent: s,115
+prod:beg -> 3 end -> 1
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 3 end -> 2
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 6 end -> 3
+semafor ma wartosc 2
+producent: s,115
+prod:beg -> 6 end -> 4
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 7 end -> 5
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 7 end -> 6
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 8 end -> 7
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 0 end -> 8
+semafor ma wartosc 2
+producent: a,97
+prod:beg -> 0 end -> 9
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 1 end -> 10
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 1 end -> 0
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 4 end -> 1
+semafor ma wartosc 2
+producent: s,115
+prod:beg -> 4 end -> 2
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 5 end -> 3
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 5 end -> 4
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 7 end -> 5
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 7 end -> 6
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 10 end -> 7
+semafor ma wartosc 2
+producent: s,115
+prod:beg -> 0 end -> 8
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 0 end -> 9
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 0 end -> 10
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 3 end -> 0
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 3 end -> 1
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 4 end -> 2
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 4 end -> 3
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 7 end -> 4
+semafor ma wartosc 2
+producent: a,97
+prod:beg -> 7 end -> 5
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 7 end -> 6
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 8 end -> 7
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 10 end -> 8
+semafor ma wartosc 2
+producent: s,115
+prod:beg -> 0 end -> 9
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 0 end -> 10
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 3 end -> 0
+semafor ma wartosc 2
+producent: s,115
+prod:beg -> 3 end -> 1
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 4 end -> 2
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 4 end -> 3
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 7 end -> 4
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 7 end -> 5
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 7 end -> 6
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 8 end -> 7
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 0 end -> 8
+semafor ma wartosc 2
+producent: a,97
+prod:beg -> 0 end -> 9
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 1 end -> 10
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 1 end -> 0
+semafor ma wartosc 0
+producent: 
+,10
+prod:beg -> 4 end -> 1
+semafor ma wartosc 2
+producent: a,97
+prod:beg -> 4 end -> 2
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 5 end -> 3
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 5 end -> 4
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 8 end -> 5
+semafor ma wartosc 2
+producent: s,115
+prod:beg -> 9 end -> 6
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 9 end -> 7
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 10 end -> 8
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 10 end -> 9
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 1 end -> 10
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 1 end -> 0
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 5 end -> 1
+semafor ma wartosc 3
+producent: d,100
+prod:beg -> 6 end -> 2
+semafor ma wartosc 3
+producent: a,97
+prod:beg -> 6 end -> 3
+semafor ma wartosc 3
+producent: s,115
+prod:beg -> 7 end -> 4
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 8 end -> 5
+semafor ma wartosc 6
+producent: a,97
+prod:beg -> 2 end -> 6
+semafor ma wartosc 6
+producent: s,115
+prod:beg -> 3 end -> 7
+semafor ma wartosc 6
+producent: d,100
+prod:beg -> 3 end -> 8
+semafor ma wartosc 5
+producent: a,97
+prod:beg -> 4 end -> 9
+semafor ma wartosc 5
+producent: s,115
+prod:beg -> 4 end -> 10
+semafor ma wartosc 4
+producent: d,100
+prod:beg -> 5 end -> 0
+semafor ma wartosc 4
+producent: a,97
+prod:beg -> 5 end -> 1
+semafor ma wartosc 3
+producent: s,115
+prod:beg -> 6 end -> 2
+semafor ma wartosc 3
+producent: d,100
+prod:beg -> 6 end -> 3
+semafor ma wartosc 2
+producent: a,97
+prod:beg -> 7 end -> 4
+semafor ma wartosc 2
+producent: s,115
+prod:beg -> 7 end -> 5
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 8 end -> 6
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 8 end -> 7
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 10 end -> 8
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 10 end -> 9
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 0 end -> 10
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 5 end -> 0
+semafor ma wartosc 4
+producent: d,100
+prod:beg -> 5 end -> 1
+semafor ma wartosc 4
+producent: a,97
+prod:beg -> 6 end -> 2
+semafor ma wartosc 3
+producent: s,115
+prod:beg -> 7 end -> 3
+semafor ma wartosc 3
+producent: d,100
+prod:beg -> 7 end -> 4
+semafor ma wartosc 2
+producent: a,97
+prod:beg -> 7 end -> 5
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 8 end -> 6
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 8 end -> 7
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 9 end -> 8
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 0 end -> 9
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 0 end -> 10
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 4 end -> 0
+semafor ma wartosc 3
+producent: s,115
+prod:beg -> 5 end -> 1
+semafor ma wartosc 3
+producent: d,100
+prod:beg -> 6 end -> 2
+semafor ma wartosc 3
+producent: a,97
+prod:beg -> 6 end -> 3
+semafor ma wartosc 2
+producent: s,115
+prod:beg -> 6 end -> 4
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 7 end -> 5
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 7 end -> 6
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 8 end -> 7
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 0 end -> 8
+semafor ma wartosc 2
+producent: a,97
+prod:beg -> 0 end -> 9
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 1 end -> 10
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 1 end -> 0
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 4 end -> 1
+semafor ma wartosc 2
+producent: s,115
+prod:beg -> 4 end -> 2
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 5 end -> 3
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 5 end -> 4
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 7 end -> 5
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 8 end -> 6
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 8 end -> 7
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 9 end -> 8
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 1 end -> 9
+semafor ma wartosc 2
+producent: a,97
+prod:beg -> 1 end -> 10
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 1 end -> 0
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 4 end -> 1
+semafor ma wartosc 2
+producent: a,97
+prod:beg -> 4 end -> 2
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 5 end -> 3
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 5 end -> 4
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 8 end -> 5
+semafor ma wartosc 2
+producent: s,115
+prod:beg -> 8 end -> 6
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 9 end -> 7
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 9 end -> 8
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 1 end -> 9
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 1 end -> 10
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 2 end -> 0
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 2 end -> 1
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 5 end -> 2
+semafor ma wartosc 2
+producent: a,97
+prod:beg -> 5 end -> 3
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 6 end -> 4
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 6 end -> 5
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 9 end -> 6
+semafor ma wartosc 2
+producent: s,115
+prod:beg -> 9 end -> 7
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 10 end -> 8
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 10 end -> 9
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 3 end -> 10
+semafor ma wartosc 3
+producent: d,100
+prod:beg -> 4 end -> 0
+semafor ma wartosc 3
+producent: a,97
+prod:beg -> 4 end -> 1
+semafor ma wartosc 2
+producent: s,115
+prod:beg -> 5 end -> 2
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 5 end -> 3
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 6 end -> 4
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 6 end -> 5
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 7 end -> 6
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 8 end -> 7
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 1 end -> 8
+semafor ma wartosc 3
+producent: d,100
+prod:beg -> 2 end -> 9
+semafor ma wartosc 3
+producent: a,97
+prod:beg -> 2 end -> 10
+semafor ma wartosc 2
+producent: s,115
+prod:beg -> 3 end -> 0
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 3 end -> 1
+semafor ma wartosc 2
+producent: a,97
+prod:beg -> 4 end -> 2
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 5 end -> 3
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 5 end -> 4
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 7 end -> 5
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 7 end -> 6
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 3 end -> 7
+semafor ma wartosc 6
+producent: a,97
+prod:beg -> 4 end -> 8
+semafor ma wartosc 6
+producent: s,115
+prod:beg -> 4 end -> 9
+semafor ma wartosc 5
+producent: d,100
+prod:beg -> 5 end -> 10
+semafor ma wartosc 5
+producent: a,97
+prod:beg -> 5 end -> 0
+semafor ma wartosc 4
+producent: s,115
+prod:beg -> 6 end -> 1
+semafor ma wartosc 4
+producent: d,100
+prod:beg -> 6 end -> 2
+semafor ma wartosc 3
+producent: a,97
+prod:beg -> 7 end -> 3
+semafor ma wartosc 3
+producent: s,115
+prod:beg -> 7 end -> 4
+semafor ma wartosc 3
+producent: d,100
+prod:beg -> 8 end -> 5
+semafor ma wartosc 2
+producent: a,97
+prod:beg -> 9 end -> 6
+semafor ma wartosc 2
+producent: s,115
+prod:beg -> 9 end -> 7
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 10 end -> 8
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 10 end -> 9
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 0 end -> 10
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 2 end -> 0
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 2 end -> 1
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 3 end -> 2
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 7 end -> 3
+semafor ma wartosc 3
+producent: a,97
+prod:beg -> 8 end -> 4
+semafor ma wartosc 3
+producent: s,115
+prod:beg -> 8 end -> 5
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 9 end -> 6
+semafor ma wartosc 2
+producent: 
+,10
+prod:beg -> 9 end -> 7
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 10 end -> 8
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 10 end -> 9
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 3 end -> 10
+semafor ma wartosc 4
+producent: a,97
+prod:beg -> 4 end -> 0
+semafor ma wartosc 3
+producent: s,115
+prod:beg -> 5 end -> 1
+semafor ma wartosc 3
+producent: d,100
+prod:beg -> 5 end -> 2
+semafor ma wartosc 2
+producent: a,97
+prod:beg -> 6 end -> 3
+semafor ma wartosc 2
+producent: s,115
+prod:beg -> 6 end -> 4
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 7 end -> 5
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 7 end -> 6
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 9 end -> 7
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 9 end -> 8
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 2 end -> 9
+semafor ma wartosc 3
+producent: s,115
+prod:beg -> 3 end -> 10
+semafor ma wartosc 3
+producent: d,100
+prod:beg -> 3 end -> 0
+semafor ma wartosc 3
+producent: a,97
+prod:beg -> 4 end -> 1
+semafor ma wartosc 2
+producent: s,115
+prod:beg -> 5 end -> 2
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 5 end -> 3
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 6 end -> 4
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 6 end -> 5
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 7 end -> 6
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 0 end -> 7
+semafor ma wartosc 3
+producent: s,11100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 7
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 7
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 7
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 7
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: 
+,10
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 6
+konsument: a,97
+semafor ma wartosc 6
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 7
+konsument: s,115
+semafor ma wartosc 6
+konsument: d,100
+semafor ma wartosc 5
+konsument: a,97
+semafor ma wartosc 4
+konsument: s,115
+semafor ma wartosc 3
+konsument: d,100
+semafor ma wartosc 4
+konsument: a,97
+semafor ma wartosc 4
+konsument: s,115
+semafor ma wartosc 5
+konsument: d,100
+semafor ma wartosc 7
+konsument: a,97
+semafor ma wartosc 7
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 6
+konsument: a,97
+semafor ma wartosc 6
+konsument: s,115
+semafor ma wartosc 6
+konsument: d,100
+semafor ma wartosc 7
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 7
+konsument: s,115
+semafor ma wartosc 6
+konsument: d,100
+semafor ma wartosc 6
+konsument: a,97
+semafor ma wartosc 7
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 7
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 7
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 7
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 7
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 7
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 7
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 7
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 6
+konsument: a,97
+semafor ma wartosc 7
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 6
+konsument: a,97
+semafor ma wartosc 6
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 7
+konsument: a,97
+semafor ma wartosc 6
+konsument: s,115
+semafor ma wartosc 5
+konsument: d,100
+semafor ma wartosc 4
+konsument: a,97
+semafor ma wartosc 4
+konsument: s,115
+semafor ma wartosc 4
+konsument: d,100
+semafor ma wartosc 5
+konsument: a,97
+semafor ma wartosc 5
+konsument: s,115
+semafor ma wartosc 6
+konsument: d,100
+semafor ma wartosc 7
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 7
+konsument: a,97
+semafor ma wartosc 6
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 7
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 7
+konsument: s,115
+semafor ma wartosc 6
+konsument: d,100
+semafor ma wartosc 6
+konsument: a,97
+semafor ma wartosc 7
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 9
+konsument: 
+,10
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 7
+konsument: s,115
+semafor ma wartosc 6
+konsument: d,100
+semafor ma wartosc 6
+konsument: a,97
+semafor ma wartosc 7
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 7
+konsument: s,115
+semafor ma wartosc 6
+konsument: d,100
+semafor ma wartosc 6
+konsument: a,97
+semafor ma wartosc 5
+konsument: s,115
+semafor ma wartosc 4
+konsument: d,100
+semafor ma wartosc 3
+konsument: a,97
+semafor ma wartosc 3
+konsument: s,115
+semafor ma wartosc 4
+konsument: d,100
+semafor ma wartosc 5
+konsument: a,97
+semafor ma wartosc 6
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 7
+konsument: s,115
+semafor ma wartosc 6
+konsument: d,100
+semafor ma wartosc 6
+konsument: a,97
+semafor ma wartosc 7
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 6
+konsument: a,97
+semafor ma wartosc 6
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 7
+konsument: s,115
+semafor ma wartosc 6
+konsument: d,100
+semafor ma wartosc 7
+konsument: a,97
+semafor ma wartosc 7
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 7
+konsument: a,97
+semafor ma wartosc 6
+konsument: s,115
+semafor ma warto5
+prod:beg -> 4 end -> 8
+semafor ma wartosc 6
+producent: d,100
+prod:beg -> 5 end -> 9
+semafor ma wartosc 6
+producent: a,97
+prod:beg -> 6 end -> 10
+semafor ma wartosc 6
+producent: s,115
+prod:beg -> 6 end -> 0
+semafor ma wartosc 5
+producent: d,100
+prod:beg -> 7 end -> 1
+semafor ma wartosc 5
+producent: a,97
+prod:beg -> 7 end -> 2
+semafor ma wartosc 4
+producent: s,115
+prod:beg -> 7 end -> 3
+semafor ma wartosc 3
+producent: d,100
+prod:beg -> 8 end -> 4
+semafor ma wartosc 3
+producent: a,97
+prod:beg -> 8 end -> 5
+semafor ma wartosc 2
+producent: s,115
+prod:beg -> 9 end -> 6
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 9 end -> 7
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 10 end -> 8
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 10 end -> 9
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 0 end -> 10
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 4 end -> 0
+semafor ma wartosc 3
+producent: s,115
+prod:beg -> 5 end -> 1
+semafor ma wartosc 3
+producent: d,100
+prod:beg -> 5 end -> 2
+semafor ma wartosc 2
+producent: a,97
+prod:beg -> 6 end -> 3
+semafor ma wartosc 2
+producent: s,115
+prod:beg -> 6 end -> 4
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 6 end -> 5
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 7 end -> 6
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 0 end -> 7
+semafor ma wartosc 3
+producent: d,100
+prod:beg -> 1 end -> 8
+semafor ma wartosc 3
+producent: a,97
+prod:beg -> 2 end -> 9
+semafor ma wartosc 3
+producent: s,115
+prod:beg -> 2 end -> 10
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 2 end -> 0
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 3 end -> 1
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 3 end -> 2
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 4 end -> 3
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 8 end -> 4
+semafor ma wartosc 3
+producent: s,115
+prod:beg -> 9 end -> 5
+semafor ma wartosc 3
+producent: d,100
+prod:beg -> 9 end -> 6
+semafor ma wartosc 2
+producent: a,97
+prod:beg -> 10 end -> 7
+semafor ma wartosc 2
+producent: s,115
+prod:beg -> 10 end -> 8
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 0 end -> 9
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 0 end -> 10
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 1 end -> 0
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 5 end -> 1
+semafor ma wartosc 3
+producent: a,97
+prod:beg -> 5 end -> 2
+semafor ma wartosc 2
+producent: s,115
+prod:beg -> 5 end -> 3
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 5 end -> 4
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 8 end -> 5
+semafor ma wartosc 3
+producent: s,115
+prod:beg -> 9 end -> 6
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 10 end -> 7
+semafor ma wartosc 2
+producent: a,97
+prod:beg -> 10 end -> 8
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 0 end -> 9
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 0 end -> 10
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 1 end -> 0
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 3 end -> 1
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 3 end -> 2
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 7 end -> 3
+semafor ma wartosc 3
+producent: s,115
+prod:beg -> 8 end -> 4
+semafor ma wartosc 3
+producent: d,100
+prod:beg -> 8 end -> 5
+semafor ma wartosc 2
+producent: a,97
+prod:beg -> 9 end -> 6
+semafor ma wartosc 2
+producent: s,115
+prod:beg -> 9 end -> 7
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 10 end -> 8
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 10 end -> 9
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 0 end -> 10
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 4 end -> 0
+semafor ma wartosc 3
+producent: a,97
+prod:beg -> 4 end -> 1
+semafor ma wartosc 3
+producent: s,115
+prod:beg -> 5 end -> 2
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 6 end -> 3
+semafor ma wartosc 2
+producent: a,97
+prod:beg -> 6 end -> 4
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 7 end -> 5
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 7 end -> 6
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 8 end -> 7
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 1 end -> 8
+semafor ma wartosc 3
+producent: d,100
+prod:beg -> 2 end -> 9
+semafor ma wartosc 3
+producent: a,97
+prod:beg -> 2 end -> 10
+semafor ma wartosc 2
+producent: s,115
+prod:beg -> 2 end -> 0
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 3 end -> 1
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 4 end -> 2
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 4 end -> 3
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 5 end -> 4
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 6 end -> 5
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 10 end -> 6
+semafor ma wartosc 3
+producent: d,100
+prod:beg -> 10 end -> 7
+semafor ma wartosc 2
+producent: a,97
+prod:beg -> 0 end -> 8
+semafor ma wartosc 2
+producent: s,115
+prod:beg -> 0 end -> 9
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 0 end -> 10
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 1 end -> 0
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 4 end -> 1
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 5 end -> 2
+semafor ma wartosc 2
+producent: a,97
+prod:beg -> 5 end -> 3
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 6 end -> 4
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 6 end -> 5
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 7 end -> 6
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 0 end -> 7
+semafor ma wartosc 3
+producent: d,100
+prod:beg -> 1 end -> 8
+semafor ma wartosc 3
+producent: a,97
+prod:beg -> 1 end -> 9
+semafor ma wartosc 2
+producent: s,115
+prod:beg -> 2 end -> 10
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 2 end -> 0
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 3 end -> 1
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 4 end -> 2
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 4 end -> 3
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 6 end -> 4
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 6 end -> 5
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 10 end -> 6
+semafor ma wartosc 3
+producent: a,97
+prod:beg -> 0 end -> 7
+semafor ma wartosc 3
+producent: s,115
+prod:beg -> 1 end -> 8
+semafor ma wartosc 3
+producent: d,100
+prod:beg -> 1 end -> 9
+semafor ma wartosc 2
+producent: a,97
+prod:beg -> 2 end -> 10
+semafor ma wartosc 2
+producent: s,115
+prod:beg -> 2 end -> 0
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 3 end -> 1
+semafor ma wartosc 1
+producent: 
+,10
+prod:beg -> 3 end -> 2
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 6 end -> 3
+semafor ma wartosc 2
+producent: s,115
+prod:beg -> 6 end -> 4
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 7 end -> 5
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 7 end -> 6
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 8 end -> 7
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 1 end -> 8
+semafor ma wartosc 3
+producent: a,97
+prod:beg -> 2 end -> 9
+semafor ma wartosc 3
+producent: s,115
+prod:beg -> 2 end -> 10
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 3 end -> 0
+semafor ma wartosc 2
+producent: a,97
+prod:beg -> 4 end -> 1
+semafor ma wartosc 2
+producent: s,115
+prod:beg -> 4 end -> 2
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 5 end -> 3
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 5 end -> 4
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 7 end -> 5
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 7 end -> 6
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 9 end -> 7
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 9 end -> 8
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 2 end -> 9
+semafor ma wartosc 3
+producent: a,97
+prod:beg -> 3 end -> 10
+semafor ma wartosc 3
+producent: s,115
+prod:beg -> 4 end -> 0
+semafor ma wartosc 3
+producent: d,100
+prod:beg -> 4 end -> 1
+semafor ma wartosc 2
+producent: a,97
+prod:beg -> 5 end -> 2
+semafor ma wartosc 2
+producent: s,115
+prod:beg -> 5 end -> 3
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 6 end -> 4
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 6 end -> 5
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 7 end -> 6
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 0 end -> 7
+semafor ma wartosc 3
+producent: a,97
+prod:beg -> 1 end -> 8
+semafor ma wartosc 3
+producent: s,115
+prod:beg -> 1 end -> 9
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 2 end -> 10
+semafor ma warsc 6
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 7
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 7
+konsument: s,115
+semafor ma wartosc 6
+konsument: d,100
+semafor ma wartosc 6
+konsument: a,97
+semafor ma wartosc 7
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 7
+konsument: a,97
+semafor ma wartosc 7
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 6
+konsument: a,97
+semafor ma wartosc 7
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 6
+konsument: a,97
+semafor ma wartosc 7
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 6
+konsument: a,97
+semafor ma wartosc 7
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 7
+konsument: a,97
+semafor ma wartosc 6
+konsument: s,115
+semafor ma wartosc 6
+konsument: d,100
+semafor ma wartosc 7
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 7
+konsument: s,115
+semafor ma wartosc 6
+konsument: d,100
+semafor ma wartosc 6
+konsument: 
+,10
+semafor ma wartosc 7
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 7
+konsument: a,97
+semafor ma wartosc 6
+konsument: s,115
+semafor ma wartosc 6
+konsument: d,100
+semafor ma wartosc 7
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 7
+konsument: a,97
+semafor ma wartosc 6
+konsument: s,115
+semafor ma wartosc 6
+konsument: d,100
+semafor ma wartosc 7
+konsument: a,97
+semafor ma wartosc 7
+konsument: s,115
+semafor ma wartosc 6
+konsument: d,100
+semafor ma wartosc 5
+konsument: a,97
+semafor ma wartosc 6
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 7
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 6
+konsument: a,97
+semafor ma wartosc 6
+konsument: s,115
+semafor ma wartosc 6
+konsument: d,100
+semafor ma wartosc 7
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 7
+konsument: s,115
+semafor ma wartosc 6
+konsument: d,100
+semafor ma wartosc 6
+konsument: a,97
+semafor ma wartosc 7
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 7
+konsument: s,115
+semafor ma wartosc 6
+konsument: d,100
+semafor ma wartosc 7
+konsument: a,97
+semafor ma wartosc 7
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 6
+konsument: a,97
+semafor ma wartosc 6
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 6
+konsument: a,97
+semafor ma wartosc 6
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 6
+konsument: a,97
+semafor ma wartosc 6
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 6
+konsument: a,97
+semafor ma wartosc 6
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 6
+konsument: a,97
+semafor ma wartosc 6
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 6
+konsument: a,97
+semafor ma wartosc 6
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 7
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 6
+konsument: 
+,10
+semafor ma wartosc 6
+konsument: a,97
+semafor ma wartosc 7
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 7
+konsument: s,115
+semafor ma wartosc 6
+konsument: d,100
+semafor ma wartosc 6
+konsument: a,97
+semafor ma wartosc 7
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,11tosc 2
+producent: a,97
+prod:beg -> 5 end -> 0
+semafor ma wartosc 4
+producent: s,115
+prod:beg -> 6 end -> 1
+semafor ma wartosc 4
+producent: d,100
+prod:beg -> 6 end -> 2
+semafor ma wartosc 3
+producent: a,97
+prod:beg -> 7 end -> 3
+semafor ma wartosc 3
+producent: s,115
+prod:beg -> 7 end -> 4
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 8 end -> 5
+semafor ma wartosc 2
+producent: a,97
+prod:beg -> 8 end -> 6
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 9 end -> 7
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 9 end -> 8
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 10 end -> 9
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 1 end -> 10
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 1 end -> 0
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 2 end -> 1
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 7 end -> 2
+semafor ma wartosc 4
+producent: d,100
+prod:beg -> 7 end -> 3
+semafor ma wartosc 3
+producent: a,97
+prod:beg -> 8 end -> 4
+semafor ma wartosc 3
+producent: s,115
+prod:beg -> 8 end -> 5
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 9 end -> 6
+semafor ma wartosc 2
+producent: a,97
+prod:beg -> 9 end -> 7
+semafor ma wartosc 2
+producent: s,115
+prod:beg -> 10 end -> 8
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 0 end -> 9
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 0 end -> 10
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 2 end -> 0
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 2 end -> 1
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 6 end -> 2
+semafor ma wartosc 3
+producent: s,115
+prod:beg -> 7 end -> 3
+semafor ma wartosc 3
+producent: d,100
+prod:beg -> 8 end -> 4
+semafor ma wartosc 3
+producent: a,97
+prod:beg -> 8 end -> 5
+semafor ma wartosc 2
+producent: s,115
+prod:beg -> 9 end -> 6
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 9 end -> 7
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 10 end -> 8
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 10 end -> 9
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 0 end -> 10
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 4 end -> 0
+semafor ma wartosc 3
+producent: s,115
+prod:beg -> 5 end -> 1
+semafor ma wartosc 3
+producent: d,100
+prod:beg -> 5 end -> 2
+semafor ma wartosc 2
+producent: a,97
+prod:beg -> 6 end -> 3
+semafor ma wartosc 2
+producent: s,115
+prod:beg -> 6 end -> 4
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 7 end -> 5
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 8 end -> 6
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 8 end -> 7
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 10 end -> 8
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 10 end -> 9
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 3 end -> 10
+semafor ma wartosc 3
+producent: d,100
+prod:beg -> 4 end -> 0
+semafor ma wartosc 3
+producent: a,97
+prod:beg -> 5 end -> 1
+semafor ma wartosc 3
+producent: s,115
+prod:beg -> 5 end -> 2
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 6 end -> 3
+semafor ma wartosc 2
+producent: a,97
+prod:beg -> 6 end -> 4
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 7 end -> 5
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 7 end -> 6
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 8 end -> 7
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 1 end -> 8
+semafor ma wartosc 3
+producent: d,100
+prod:beg -> 2 end -> 9
+semafor ma wartosc 3
+producent: a,97
+prod:beg -> 2 end -> 10
+semafor ma wartosc 3
+producent: s,115
+prod:beg -> 3 end -> 0
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 4 end -> 1
+semafor ma wartosc 2
+producent: a,97
+prod:beg -> 4 end -> 2
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 5 end -> 3
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 5 end -> 4
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 6 end -> 5
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 10 end -> 6
+semafor ma wartosc 3
+producent: d,100
+prod:beg -> 0 end -> 7
+semafor ma wartosc 3
+producent: a,97
+prod:beg -> 0 end -> 8
+semafor ma wartosc 3
+producent: s,115
+prod:beg -> 1 end -> 9
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 1 end -> 10
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 1 end -> 0
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 2 end -> 1
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 4 end -> 2
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 4 end -> 3
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 8 end -> 4
+semafor ma wartosc 3
+producent: d,100
+prod:beg -> 9 end -> 5
+semafor ma wartosc 3
+producent: a,97
+prod:beg -> 10 end -> 6
+semafor ma wartosc 3
+producent: s,115
+prod:beg -> 10 end -> 7
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 0 end -> 8
+semafor ma wartosc 2
+producent: a,97
+prod:beg -> 0 end -> 9
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 1 end -> 10
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 1 end -> 0
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 2 end -> 1
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 6 end -> 2
+semafor ma wartosc 3
+producent: d,100
+prod:beg -> 7 end -> 3
+semafor ma wartosc 3
+producent: a,97
+prod:beg -> 7 end -> 4
+semafor ma wartosc 2
+producent: s,115
+prod:beg -> 8 end -> 5
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 9 end -> 6
+semafor ma wartosc 2
+producent: a,97
+prod:beg -> 9 end -> 7
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 10 end -> 8
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 10 end -> 9
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 0 end -> 10
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 4 end -> 0
+semafor ma wartosc 3
+producent: d,100
+prod:beg -> 5 end -> 1
+semafor ma wartosc 3
+producent: a,97
+prod:beg -> 5 end -> 2
+semafor ma wartosc 2
+producent: s,115
+prod:beg -> 6 end -> 3
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 6 end -> 4
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 7 end -> 5
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 7 end -> 6
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 8 end -> 7
+semafor ma wartosc 0
+producent: 
+,10
+prod:beg -> 0 end -> 8
+semafor ma wartosc 3
+producent: a,97
+prod:beg -> 1 end -> 9
+semafor ma wartosc 2
+producent: s,115
+prod:beg -> 2 end -> 10
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 2 end -> 0
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 3 end -> 1
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 3 end -> 2
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 4 end -> 3
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 8 end -> 4
+semafor ma wartosc 3
+producent: s,115
+prod:beg -> 9 end -> 5
+semafor ma wartosc 3
+producent: d,100
+prod:beg -> 9 end -> 6
+semafor ma wartosc 2
+producent: a,97
+prod:beg -> 10 end -> 7
+semafor ma wartosc 2
+producent: s,115
+prod:beg -> 0 end -> 8
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 0 end -> 9
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 1 end -> 10
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 1 end -> 0
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 2 end -> 1
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 6 end -> 2
+semafor ma wartosc 3
+producent: s,115
+prod:beg -> 7 end -> 3
+semafor ma wartosc 3
+producent: d,100
+prod:beg -> 7 end -> 4
+semafor ma wartosc 2
+producent: a,97
+prod:beg -> 8 end -> 5
+semafor ma wartosc 2
+producent: s,115
+prod:beg -> 8 end -> 6
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 9 end -> 7
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 9 end -> 8
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 10 end -> 9
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 1 end -> 10
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 1 end -> 0
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 2 end -> 1
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 8 end -> 2
+semafor ma wartosc 5
+producent: a,97
+prod:beg -> 9 end -> 3
+semafor ma wartosc 5
+producent: s,115
+prod:beg -> 9 end -> 4
+semafor ma wartosc 4
+producent: d,100
+prod:beg -> 9 end -> 5
+semafor ma wartosc 3
+producent: a,97
+prod:beg -> 10 end -> 6
+semafor ma wartosc 3
+producent: s,115
+prod:beg -> 10 end -> 7
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 0 end -> 8
+semafor ma wartosc 2
+producent: a,97
+prod:beg -> 0 end -> 9
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 1 end -> 10
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 1 end -> 0
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 2 end -> 1
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 4 end -> 2
+semafor ma wartosc 4
+producent: d,100
+prod:beg -> 8 end -> 3
+semafor ma wartosc 4
+producent: a,97
+prod:beg -> 9 end -> 4
+semafor ma wartosc 4
+producent: s,115
+prod:beg -> 9 end -> 5
+semafor ma wartosc 3
+producent: d,100
+prod:beg -> 10 end -> 6
+semafor ma wartosc 3
+producent: a,97
+prod:beg -> 10 end -> 7
+semafor ma wartosc 2
+producent: s,115
+prod:beg -> 0 end -> 8
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 0 end -> 9
+semafor ma wartosc 2
+producent: a,97
+prod:beg -> 1 end -> 10
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 2 end -> 0
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 2 end -> 1
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 4 end -> 2
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 4 end -> 3
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 5 end -> 4
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 10 end -> 5
+semafor ma wartosc 4
+producent: s,115
+prod:beg -> 0 end -> 6
+semafor ma wartosc 4
+producent: d,100
+prod:beg -> 0 end -> 7
+semafor ma wartosc 3
+producent: a,97
+prod:beg -> 1 end -> 8
+semafor ma wartosc 3
+producent: s,115
+prod:beg -> 1 end -> 9
+semafor ma wartosc 3
+producent: d,100
+prod:beg -> 2 end -> 10
+semafor ma wartosc 2
+producent: a,97
+prod:beg -> 3 end -> 0
+semafor ma wartosc 2
+producent: s,115
+prod:beg -> 3 end -> 1
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 4 end -> 2
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 4 end -> 3
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 5 end -> 4
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 9 end -> 5
+semafor ma wartosc 3
+producent: a,97
+prod:beg -> 10 end -> 6
+semafor ma wartosc 3
+producent: s,115
+prod:beg -> 10 end -> 7
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 0 end -> 8
+semafor ma wartosc 2
+producent: a,97
+prod:beg -> 0 end -> 9
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 1 end -> 10
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 1 end -> 0
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 2 end -> 1
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 6 end -> 2
+semafor ma wartosc 3
+producent: d,100
+prod:beg -> 7 end -> 3
+semafor ma wartosc 3
+producent: a,97
+prod:beg -> 8 end -> 4
+semafor ma wartosc 3
+producent: s,115
+prod:beg -> 8 end -> 5
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 9 end -> 6
+semafor ma wartosc 2
+producent: a,97
+prod:beg -> 9 end -> 7
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 10 end -> 8
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 10 end -> 9
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 0 end -> 10
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 4 end -> 0
+semafor ma wartosc 4
+producent: d,100
+prod:beg -> 5 end -> 1
+semafor ma wartosc 3
+producent: a,97
+prod:beg -> 6 end -> 2
+semafor ma wartosc 3
+producent: s,115
+prod:beg -> 6 end -> 3
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 7 end -> 4
+semafor ma wartosc 2
+producent: a,97
+prod:beg -> 7 end -> 5
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 8 end -> 6
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 8 end -> 7
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 9 end -> 8
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 2 end -> 9
+semafor ma wartosc 3
+producent: d,100
+prod:beg -> 3 end -> 10
+semafor ma wartosc 3
+producent: a,97
+prod:beg -> 4 end -> 0
+semafor ma wartosc 3
+producent: s,115
+prod:beg -> 4 end -> 1
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 5 end -> 2
+semafor ma wartosc 2
+producent: a,97
+prod:beg -> 5 end -> 3
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 6 end -> 4
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 6 end -> 5
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 7 end -> 6
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 0 end -> 7
+semafor ma wartosc 3
+producent: d,100
+prod:beg -> 0 end -> 8
+semafor ma wartosc 3
+producent: a,97
+prod:beg -> 1 end -> 9
+semafor ma wartosc 2
+producent: s,115
+prod:beg -> 2 end -> 10
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 2 end -> 0
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 3 end -> 1
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 3 end -> 2
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 4 end -> 3
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 8 end -> 4
+semafor ma wartosc 3
+producent: s,115
+prod:beg -> 9 end -> 5
+semafor ma wartosc 3
+producent: d,100
+prod:beg -> 9 end -> 6
+semafor ma wartosc 3
+producent: a,97
+prod:beg -> 10 end -> 7
+semafor ma wartosc 2
+producent: s,115
+prod:beg -> 0 end -> 8
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 0 end -> 9
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 1 end -> 10
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 1 end -> 0
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 2 end -> 1
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 6 end -> 2
+semafor ma wartosc 3
+producent: s,115
+prod:beg -> 7 end -> 3
+semafor ma wartosc 3
+producent: d,100
+prod:beg -> 7 end -> 4
+semafor ma wartosc 2
+producent: a,97
+prod:beg -> 8 end -> 5
+semafor ma wartosc 2
+producent: s,115
+prod:beg -> 8 end -> 6
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 9 end -> 7
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 10 end -> 8
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 10 end -> 9
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 1 end -> 10
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 1 end -> 0
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 4 end -> 1
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 4 end -> 2
+semafor ma wartosc 1
+producent: 
+,10
+prod:beg -> 4 end -> 3
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 2 end -> 4
+semafor ma wartosc 8
+producent: s,115
+prod:beg -> 3 end -> 5
+semafor ma wartosc 8
+producent: d,100
+prod:beg -> 3 end -> 6
+semafor ma wartosc 7
+producent: a,97
+prod:beg -> 4 end -> 7
+semafor ma wartosc 7
+producent: s,115
+prod:beg -> 5 end -> 8
+semafor ma wartosc 7
+producent: d,100
+prod:beg -> 5 end -> 9
+semafor ma wartosc 6
+producent: a,97
+prod:beg -> 6 end -> 10
+semafor ma wartosc 6
+producent: s,115
+prod:beg -> 7 end -> 0
+semafor ma wartosc 6
+producent: d,100
+prod:beg -> 7 end -> 1
+semafor ma wartosc 5
+producent: a,97
+prod:beg -> 8 end -> 2
+semafor ma wartosc 5
+producent: s,115
+prod:beg -> 8 end -> 3
+semafor ma wartosc 4
+producent: d,100
+prod:beg -> 9 end -> 4
+semafor ma wartosc 4
+producent: a,97
+prod:beg -> 10 end -> 5
+semafor ma wartosc 4
+producent: s,115
+prod:beg -> 10 end -> 6
+semafor ma wartosc 3
+producent: d,100
+prod:beg -> 0 end -> 7
+semafor ma wartosc 3
+producent: a,97
+prod:beg -> 0 end -> 8
+semafor ma wartosc 2
+producent: s,115
+prod:beg -> 1 end -> 9
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 2 end -> 10
+semafor ma wartosc 2
+producent: a,97
+prod:beg -> 2 end -> 0
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 3 end -> 1
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 3 end -> 2
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 4 end -> 3
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 5 end -> 4
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 7 end -> 5
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 7 end -> 6
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 8 end -> 7
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 10 end -> 8
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 10 end -> 9
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 0 end -> 10
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 2 end -> 0
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 2 end -> 1
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 3 end -> 2
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 9 end -> 3
+semafor ma wartosc 5
+producent: a,97
+prod:beg -> 10 end -> 4
+semafor ma wartosc 5
+producent: s,115
+prod:beg -> 0 end -> 5
+semafor ma wartosc 5
+producent: d,100
+prod:beg -> 0 end -> 6
+semafor ma wartosc 4
+producent: a,97
+prod:beg -> 1 end -> 7
+semafor ma wartosc 4
+producent: s,115
+prod:beg -> 2 end -> 8
+semafor ma wartosc 4
+producent: d,100
+prod:beg -> 2 end -> 9
+semafor ma wartosc 3
+producent: a,97
+prod:beg -> 3 end -> 10
+semafor ma wartosc 3
+producent: s,115
+prod:beg -> 3 end -> 0
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 4 end -> 1
+semafor ma wartosc 2
+producent: a,97
+prod:beg -> 5 end -> 2
+semafor ma wartosc 2
+producent: s,115
+prod:beg -> 5 end -> 3
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 6 end -> 4
+semafor ma wartosc 1
+produ5
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 7
+konsument: a,97
+semafor ma wartosc 6
+konsument: s,115
+semafor ma wartosc 5
+konsument: d,100
+semafor ma wartosc 5
+konsument: a,97
+semafor ma wartosc 5
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 7
+konsument: a,97
+semafor ma wartosc 6
+konsument: s,115
+semafor ma wartosc 5
+konsument: d,100
+semafor ma wartosc 6
+konsument: a,97
+semafor ma wartosc 6
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 7
+konsument: s,115
+semafor ma wartosc 6
+konsument: d,100
+semafor ma wartosc 5
+konsument: a,97
+semafor ma wartosc 5
+konsument: s,115
+semafor ma wartosc 6
+konsument: d,100
+semafor ma wartosc 7
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 7
+konsument: a,97
+semafor ma wartosc 6
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 7
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 6
+konsument: a,97
+semafor ma wartosc 6
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 6
+konsument: a,97
+semafor ma wartosc 6
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 6
+konsument: a,97
+semafor ma wartosc 6
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 7
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 7
+konsument: a,97
+semafor ma wartosc 7
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 7
+konsument: s,115
+semafor ma wartosc 6
+konsument: d,100
+semafor ma wartosc 6
+konsument: a,97
+semafor ma wartosc 7
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 7
+konsument: s,115
+semafor ma wartosc 6
+konsument: d,100
+semafor ma wartosc 6
+konsument: a,97
+semafor ma wartosc 7
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 6
+konsument: a,97
+semafor ma wartosc 5
+konsument: s,115
+semafor ma wartosc 4
+konsument: d,100
+semafor ma wartosc 3
+konsument: a,97
+semafor ma wartosc 3
+konsument: s,115
+semafor ma wartosc 2
+konsument: d,100
+semafor ma wartosc 2
+konsument: 
+,10
+semafor ma wartosc 2
+konsument: a,97
+semafor ma wartosc 3
+konsument: s,115
+semafor ma wartosc 3
+konsument: d,100
+semafor ma wartosc 4
+konsument: a,97
+semafor ma wartosc 4
+konsument: s,115
+semafor ma wartosc 5
+konsument: d,100
+semafor ma wartosc 6
+konsument: a,97
+semafor ma wartosc 6
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 7
+konsument: a,97
+semafor ma wartosc 6
+konsument: s,115
+semafor ma wartosc 5
+konsument: d,100
+semafor ma wartosc 4
+konsument: a,97
+semafor ma wartosc 4
+konsument: s,115
+semafor ma wartosc 5
+konsument: d,100
+semafor ma wartosc 5
+konsument: a,97
+semafor ma wartosc 6
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 7
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 7
+konsument: s,115
+semafor ma wartosc 6
+konsument: d,100
+semafor ma wartosc 5
+konsument: a,97
+semafor ma wartosc 4
+konsument: s,115
+semafor ma wartosc 3
+konsument: d,100
+semafor ma wartosc 3
+konsument: a,97
+semafor ma wartosc 4
+konsument: s,115
+semafor ma wartosc 5
+konsument: d,100
+semafor ma wartosc 5
+konsument: a,97
+semafor ma wartosc 6
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 7
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 7
+konsument: a,97
+semafor ma wartosc 6
+konsument: s,115
+semafor ma wartosc 5
+konsument: d,100
+semafor ma wartosc 5
+konsument: a,97
+semafor ma wartosc 6
+konsument: s,115
+semafor ma wartosc 6
+konsument: d,100
+semafor ma wartosc 7
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 7
+konsument: a,97
+semafor ma wartosc 6
+konsument: s,115
+semafor ma wartosc 6
+konsument: d,100
+semafor ma wartosc 6
+konsument: a,97
+semafor ma wartosc 7
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 7
+konsument: s,115
+semafor ma wartosc 6
+konsument: d,100
+semafor ma wartosc 6
+konsument: a,97
+semafor ma wartosc 6
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 8
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 7
+konsument: d,100
+semafor ma wartosc 6
+konsument: a,97
+semafor ma wartosc 6
+konsument: s,115
+semafor ma wartosc 6
+konsument: d,100
+semafor ma wartosc 7
+konsument: a,97
+semafor ma wartosc 8
+konsument: s,115
+semafor ma wartosc 8
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartosc 9
+konsument: d,100
+semafor ma wartosc 9
+konsument: a,97
+semafor ma wartosc 9
+konsument: s,115
+semafor ma wartoscent: a,97
+prod:beg -> 1 end -> 5
+semafor ma wartosc 6
+producent: s,115
+prod:beg -> 2 end -> 6
+semafor ma wartosc 6
+producent: d,100
+prod:beg -> 3 end -> 7
+semafor ma wartosc 6
+producent: a,97
+prod:beg -> 3 end -> 8
+semafor ma wartosc 5
+producent: s,115
+prod:beg -> 4 end -> 9
+semafor ma wartosc 5
+producent: d,100
+prod:beg -> 4 end -> 10
+semafor ma wartosc 4
+producent: a,97
+prod:beg -> 5 end -> 0
+semafor ma wartosc 4
+producent: s,115
+prod:beg -> 5 end -> 1
+semafor ma wartosc 3
+producent: d,100
+prod:beg -> 6 end -> 2
+semafor ma wartosc 3
+producent: a,97
+prod:beg -> 7 end -> 3
+semafor ma wartosc 3
+producent: s,115
+prod:beg -> 7 end -> 4
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 8 end -> 5
+semafor ma wartosc 2
+producent: a,97
+prod:beg -> 8 end -> 6
+semafor ma wartosc 2
+producent: s,115
+prod:beg -> 9 end -> 7
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 10 end -> 8
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 10 end -> 9
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 0 end -> 10
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 2 end -> 0
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 2 end -> 1
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 3 end -> 2
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 8 end -> 3
+semafor ma wartosc 4
+producent: a,97
+prod:beg -> 9 end -> 4
+semafor ma wartosc 4
+producent: s,115
+prod:beg -> 10 end -> 5
+semafor ma wartosc 4
+producent: d,100
+prod:beg -> 10 end -> 6
+semafor ma wartosc 3
+producent: a,97
+prod:beg -> 0 end -> 7
+semafor ma wartosc 3
+producent: s,115
+prod:beg -> 0 end -> 8
+semafor ma wartosc 3
+producent: d,100
+prod:beg -> 1 end -> 9
+semafor ma wartosc 2
+producent: a,97
+prod:beg -> 2 end -> 10
+semafor ma wartosc 2
+producent: s,115
+prod:beg -> 2 end -> 0
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 3 end -> 1
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 4 end -> 2
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 4 end -> 3
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 6 end -> 4
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 6 end -> 5
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 7 end -> 6
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 1 end -> 7
+semafor ma wartosc 4
+producent: a,97
+prod:beg -> 1 end -> 8
+semafor ma wartosc 3
+producent: s,115
+prod:beg -> 2 end -> 9
+semafor ma wartosc 3
+producent: d,100
+prod:beg -> 2 end -> 10
+semafor ma wartosc 3
+producent: a,97
+prod:beg -> 3 end -> 0
+semafor ma wartosc 2
+producent: s,115
+prod:beg -> 3 end -> 1
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 3 end -> 2
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 5 end -> 3
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 5 end -> 4
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 6 end -> 5
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 0 end -> 6
+semafor ma wartosc 4
+producent: s,115
+prod:beg -> 0 end -> 7
+semafor ma wartosc 3
+producent: d,100
+prod:beg -> 1 end -> 8
+semafor ma wartosc 3
+producent: a,97
+prod:beg -> 1 end -> 9
+semafor ma wartosc 2
+producent: s,115
+prod:beg -> 2 end -> 10
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 3 end -> 0
+semafor ma wartosc 2
+producent: a,97
+prod:beg -> 3 end -> 1
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 4 end -> 2
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 4 end -> 3
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 5 end -> 4
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 7 end -> 5
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 7 end -> 6
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 8 end -> 7
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 2 end -> 8
+semafor ma wartosc 4
+producent: d,100
+prod:beg -> 2 end -> 9
+semafor ma wartosc 3
+producent: a,97
+prod:beg -> 3 end -> 10
+semafor ma wartosc 3
+producent: s,115
+prod:beg -> 3 end -> 0
+semafor ma wartosc 3
+producent: d,100
+prod:beg -> 4 end -> 1
+semafor ma wartosc 2
+producent: a,97
+prod:beg -> 5 end -> 2
+semafor ma wartosc 2
+producent: s,115
+prod:beg -> 5 end -> 3
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 6 end -> 4
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 6 end -> 5
+semafor ma wartosc 1
+producent: s,115
+prod:beg -> 7 end -> 6
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 9 end -> 7
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 9 end -> 8
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 10 end -> 9
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 0 end -> 10
+semafor ma wartosc 0
+producent: a,97
+prod:beg -> 4 end -> 0
+semafor ma wartosc 3
+producent: s,115
+prod:beg -> 4 end -> 1
+semafor ma wartosc 2
+producent: d,100
+prod:beg -> 5 end -> 2
+semafor ma wartosc 2
+producent: a,97
+prod:beg -> 6 end -> 3
+semafor ma wartosc 2
+producent: s,115
+prod:beg -> 6 end -> 4
+semafor ma wartosc 1
+producent: d,100
+prod:beg -> 7 end -> 5
+semafor ma wartosc 1
+producent: a,97
+prod:beg -> 7 end -> 6
+semafor ma wartosc 0
+producent: s,115
+prod:beg -> 8 end -> 7
+semafor ma wartosc 0
+producent: d,100
+prod:beg -> 10 end -> 8
+semafor ma wartosc 1
+producent: 
+,10
+prod:beg -> 10 end -> 9
+semafor ma wartosc 0
+producent: 1,49
+prod:beg -> 0 end -> 10
+semafor ma wartosc 0
+producent: 2,50
+prod:beg -> 5 end -> 0
+semafor ma wartosc 4
+producent: 
+,10
+koniec prod

@@ -1,3 +1,5 @@
+#ifndef BUFOR_H
+#define BUFOR_H
 #define ROZMIAR 10
 typedef char towar;
 typedef struct
@@ -7,3 +9,4 @@ typedef struct
     int end;            // Element za ostatnim zapisanym elementem
     towar buf[ROZMIAR]; // Dane, własny typ 'towar' może być równoważny np. 'int'
 } bufor;
+#endif
