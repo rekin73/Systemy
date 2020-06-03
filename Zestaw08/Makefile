@@ -9,7 +9,7 @@ all: wykluczanie.x
 autor=HubertKalinowski
 katalog=`basename $(CURDIR)`
 archiwum=$(autor)_$(katalog)
-klient.x:
+wykluczanie.x:
 
 
 msgs.o: msg.c

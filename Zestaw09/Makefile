@@ -1,16 +1,18 @@
-CFLAGS	:= -O3 -Wall -std=c99
+#optymalizacja -03 wyłaczona z powodu blokowania pustej pętli while
+CFLAGS	:= -Wall -std=c99 #-O3 
 #CFLAGS	+= -Wall
 LDFLAGS := -s -lm -pthread -L. -lpthread -lrt
 LDPATH :=-Wl,-R .
 .PHONY: all clean tar
-all: piekarnia.x
+all: piekarnia1.x piekarnia2.x
 
 
 autor=HubertKalinowski
 katalog=`basename $(CURDIR)`
 archiwum=$(autor)_$(katalog)
-klient.x:
+piekarnia1.x:
 
+piekarnia2.x:
 
 msgs.o: msg.c
 	$(CC) -c $< -o $@
