@@ -8,11 +8,10 @@
 int licznik = 0;
 void *thread(void *arg);
 pthread_mutex_t mutex;
-struct thread_arg
-{                      /* Used as argument to thread_start() */
-    pthread_t id;      /* ID returned by pthread_create() */
-    int num;           /* Application-defined thread # */
-    char *argv_string; /* From command-line argument */
+struct thread_arg//argument dla wątku
+{                      
+    pthread_t id;      //id wątku (od pthread_create)
+    int num;           //numer wątku
 };
 int main(int argc, char const *argv[])
 {
