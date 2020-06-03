@@ -5,6 +5,8 @@
 #include <stdlib.h>
 #include <unistd.h>
 #define LW 5 //liczba wątków
+#define I 10 //liczba iteracji w wątku
+#define END LW *I
 int licznik = 0;
 void *thread(void *arg);
 pthread_mutex_t mutex;
@@ -15,6 +17,7 @@ struct thread_arg //argument dla wątku
 };
 int main(int argc, char const *argv[])
 {
+    char *check;
     pthread_mutex_init(&mutex, NULL);
     struct thread_arg thTab[LW];
     printf("\033c\n");
@@ -36,26 +39,30 @@ int main(int argc, char const *argv[])
             exit(1);
         }
     }
-    printf("\033[0m\033[%d;%dH\n", LW, 0);
+    if (licznik == END)
+        check = "OK";
+    else
+        check = "ERROR";
+    printf("\033[0m\033[%d;%dH L=%d %s\n", LW+1, 0,licznik,check);
     return 0;
 }
 void *thread(void *arg)
 {
     struct thread_arg *tmp = arg;
     int l;
-    for (int i = 0; i < 10; i++)
+    for (int i = 0; i < I; i++)
     {
         printf("\033[0m\033[%d;%dHpthread(%d)\033[0m\n", tmp->num, 0, tmp->num);
         pthread_mutex_lock(&mutex);
         l = licznik;
-        printf("\033[%d;%dH(%d/%d)\n", tmp->num, 12, l, licznik);
+        printf("\033[%d;%dH(%d/%d)\n", tmp->num, 12, i, licznik);
         l++;
-        printf("\033[33m\033[%d;%dH(%d/\033[31m%d)\033[0m\n", tmp->num, 12, l, licznik);
-        usleep(100000);
+        printf("\033[33m\033[%d;%dH(%d/\033[31m%d)\033[0m\n", tmp->num, 12, i, licznik);
+        usleep(10000);
         licznik = l;
-        printf("\033[%d;%dH(%d/\033[31m%d)\033[0m\n", tmp->num, 12, l, licznik);
+        printf("\033[%d;%dH(%d/\033[31m%d)\033[0m\n", tmp->num, 12, i, licznik);
         pthread_mutex_unlock(&mutex);
     }
-    printf("\033[32m\033[%d;%dH(%d/%d)\033[0m\n", tmp->num, 12, l, licznik);
+    //printf("\033[32m\033[%d;%dH(%d/%d)\033[0m\n", tmp->num, 12, l, licznik);
     return NULL;
 }
