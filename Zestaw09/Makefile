@@ -3,7 +3,7 @@ CFLAGS	:= -O3 -Wall -std=c99
 LDFLAGS := -s -lm -pthread -L. -lpthread -lrt
 LDPATH :=-Wl,-R .
 .PHONY: all clean tar
-all: wykluczanie.x
+all: piekarnia.x
 
 
 autor=HubertKalinowski
