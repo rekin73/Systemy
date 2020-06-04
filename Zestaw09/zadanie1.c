@@ -11,9 +11,9 @@
 #define END LW *I
 void *thread(void *arg);
 int max();
-bool wybieranie[LW];
-int numer[LW];
-int licznik = 0;
+volatile bool wybieranie[LW];
+volatile int numer[LW];
+volatile int licznik = 0;
 struct thread_arg //argument dla wątku
 {
     pthread_t id; //id wątku (od pthread_create)
@@ -79,7 +79,7 @@ void *thread(void *arg)
 
         l = licznik;
         l++;
-        // usleep(1000);
+         //usleep(1);
         licznik = l;
 
         if (i == I - 1)

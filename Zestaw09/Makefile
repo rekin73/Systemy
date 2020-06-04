@@ -1,18 +1,18 @@
 #optymalizacja -03 wyłaczona z powodu blokowania pustej pętli while
-CFLAGS	:= -Wall -std=c99 #-O3 
+CFLAGS	:= -Wall -std=c99 -O3 
 #CFLAGS	+= -Wall
 LDFLAGS := -s -lm -pthread -L. -lpthread -lrt
 LDPATH :=-Wl,-R .
 .PHONY: all clean tar
-all: piekarnia1.x piekarnia2.x
+all: zadanie1.x zadanie2.x
 
 
 autor=HubertKalinowski
 katalog=`basename $(CURDIR)`
 archiwum=$(autor)_$(katalog)
-piekarnia1.x:
+zadanie1.x:
 
-piekarnia2.x:
+zadanie2.x:
 
 msgs.o: msg.c
 	$(CC) -c $< -o $@
@@ -36,7 +36,7 @@ libmsg.a: msgs.o
 	$(CC) $(CFLAGS) -c -o $@ $<
 
 %.x: %.o
-	$(CC) -o $@ $^ $(LDFLAGS) $(LDPATH)
+	$(CC) -o $@ $^ $(LDFLAGS)
 
 clean:
 	$(RM) $(wildcard *.[ox])
