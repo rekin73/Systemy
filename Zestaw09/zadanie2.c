@@ -6,8 +6,8 @@
 #include <unistd.h>
 #include <stdbool.h>
 
-#define LW 5   //Licba wątków
-#define I 1000 //liczba iteracji w wątku
+#define LW 3   //Licba wątków
+#define I 10000000 //liczba iteracji w wątku
 #define END LW *I
 void *thread(void *arg);
 void lock();
@@ -77,6 +77,7 @@ void *thread(void *arg)
 void lock(int id)
 {
     wybieranie[id] = true;
+    //__sync_synchronize();
     //numer[id] = max() + 1;
         int max = numer[0];
     for (int i = 1; i < LW; i++)
@@ -85,6 +86,7 @@ void lock(int id)
             max = numer[i];
     }
     numer[id]=max+1;
+    //__sync_synchronize();
     wybieranie[id] = false;
     for (int j = 0; j < LW; j++)
     {
