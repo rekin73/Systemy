@@ -8,5 +8,6 @@ typedef struct
     int beg;            // Pierwszy element do odczytu
     int end;            // Element za ostatnim zapisanym elementem
     towar buf[ROZMIAR]; // Dane, własny typ 'towar' może być równoważny np. 'int'
+    unsigned int offset;
 } bufor;
 #endif

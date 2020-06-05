@@ -46,7 +46,7 @@ clean:
 	$(RM) $(wildcard *.[ox])
 	$(RM) *.a
 	$(RM) *.so
-
+	$(RM) schowek.txt
 
 tar: clean
 	(cd ../; tar -cvzf $(archiwum).tar.gz  $(katalog) )

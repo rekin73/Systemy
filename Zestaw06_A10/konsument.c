@@ -4,16 +4,16 @@
 #include "bufor.h"
 int main(int argc, char const *argv[])
 {
-    semid prod, kons,konsQ;
+    semid prod, kons, konsQ;
     int f, wr, buf;
     prod = semOpen("/producent");
     kons = semOpen("/konsument");
-    konsQ = semOpen("/konsQ");
     buf = shmOpen("/bufor");
+    konsQ = semOpen("/konsQ");
     bufor *bf = (bufor *)shmMap(buf, sizeof(bufor));
     pid_t pid=getpid();
     srand(pid);
-    if ((f = open("schowek.txt", O_CREAT | O_WRONLY | O_TRUNC, 0777)) == -1)
+    if ((f = open("schowek.txt", O_CREAT | O_WRONLY | O_APPEND, 0666)) == -1)
     {
         perror("open error");
         exit(1);
@@ -23,6 +23,7 @@ int main(int argc, char const *argv[])
     
     while (wr)
     {
+        semP(konsQ);
         if ((bf->beg == bf->end) && (bf->size==-1))
         {
         printf("kons:beg -> %d end -> %d\n", bf->beg, bf->end);
@@ -31,9 +32,7 @@ int main(int argc, char const *argv[])
         }
         else{
         //semInfo(kons);
-        semP(konsQ);
         semP(kons);
-        semV(konsQ);
         tmp = bf->buf[bf->beg];
         wr = write(f, &tmp, sizeof(towar));
         if (wr == -1)
@@ -51,6 +50,7 @@ int main(int argc, char const *argv[])
             bf->beg = 0;
         semV(prod);
         }
+        semV(konsQ);
     }
 
     close(f);
