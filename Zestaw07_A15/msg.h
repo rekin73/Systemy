@@ -4,7 +4,7 @@
 typedef struct
 {
    long mtype;
-   char mtext[200];
+   char mtext[40];
    int len;
 }komunikat;
  // Tworzy kolejkę komunikatów o nazwie name i zwraca do niej deskryptor.

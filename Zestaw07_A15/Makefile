@@ -40,6 +40,7 @@ clean:
 	$(RM) $(wildcard *.[ox])
 	$(RM) *.a
 	$(RM) *.so
+	$(RM) *.key
 
 
 tar: clean
